@@ -206,7 +206,7 @@ Estrutura prevista:
 ```text
 RAW → STAGING → INTERMEDIATE → MARTS
 ```
-
+ 
 Possível implementação futura:
 
 ```text
